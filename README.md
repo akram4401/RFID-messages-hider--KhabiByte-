@@ -65,6 +65,6 @@ The application uses Vigenère cipher for encryption:
 - Check the "Encrypt Message" box when writing
 - Enter a key when prompted
 - The same key is required for decryption when reading
-- 
+
 ![Encrypt Message box](images/enc_1.png)
-![Encrypt Key Word](images/enc_2.png)
+
